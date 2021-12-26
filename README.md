@@ -17,6 +17,8 @@ The Project first aims to briefly introduce Quantum Neural Networks and then bui
 - **tkinter**
 - **opencv**
 
+####  [Final phase work will be updated soon]
+
 ### References
 - https://arxiv.org/pdf/1802.06002.pdf
 - https://www.tensorflow.org/quantum/tutorials/mnist
